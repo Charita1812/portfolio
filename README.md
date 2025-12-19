@@ -9,7 +9,7 @@ Animated personal portfolio built using **React**, **Vite**, and **Tailwind CSS*
 - Deployed on Vercel
 
 ### 🔗 Live Demo
-👉 https://your-vercel-link.vercel.app
+👉 https://portfolio-gamma-sand-93.vercel.app/
 
 ### 🛠 Tech Stack
 - React
